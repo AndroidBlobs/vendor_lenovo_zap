@@ -1,0 +1,17 @@
+enableNCSService=TRUE
+disablePDAF=FALSE
+disableFocusIndication=1
+enableDualIFE=TRUE
+IFEDualClockThreshold=600000000
+exportSecureCamera=TRUE
+enableMCTF=FALSE
+dualCamLtmEnable=TRUE
+enableSensorHWSync=FALSE
+enableSensorFpsMatch=FALSE
+multiCameraEnable=TRUE
+multiCamera3ASync=MultiCamera3ASyncQTI
+advanceFeatureMask=0x3
+fovcEnable=1
+;outputFormat=0
+preFlashMaxFrameWaitLimitAF=30
+
